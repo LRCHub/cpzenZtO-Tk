@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ハートキャッチ☆パラダイス！",
+  "base_artist": "工藤真由",
+  "createdAt": "2026-03-26T14:29:09.700963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス! (TVsize)",
+      "artist": "工藤真由",
+      "has_synced": true,
+      "path": "select/01_ハートキャッチ☆パラダイス!_(TVsize)_工藤真由.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス! (TVsize)",
+      "artist": "Yumi Kudo",
+      "has_synced": true,
+      "path": "select/02_ハートキャッチ☆パラダイス!_(TVsize)_Yumi_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス！",
+      "artist": "Yumi Kudo",
+      "has_synced": true,
+      "path": "select/03_ハートキャッチ☆パラダイス!_Yumi_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス！",
+      "artist": "Yumi Kudo",
+      "has_synced": true,
+      "path": "select/04_ハートキャッチ☆パラダイス!_Yumi_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス!",
+      "artist": "池田彩 / 工藤真由",
+      "has_synced": true,
+      "path": "select/05_ハートキャッチ☆パラダイス!_池田彩___工藤真由.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス！(TV size)",
+      "artist": "Mayu Kudo",
+      "has_synced": true,
+      "path": "select/06_ハートキャッチ☆パラダイス!(TV_size)_Mayu_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス！(オリジナル・メロディー入り・カラオケ)",
+      "artist": "Mayu Kudo",
+      "has_synced": true,
+      "path": "select/07_ハートキャッチ☆パラダイス!(オリジナル・メロディー入り・カラオケ)_Mayu_Kudo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハートキャッチ☆パラダイス! (オリジナル・メロディー入り・カラオケ)\u001fHeartcatch☆Paradise! (Original Melody Iri Karaoke)",
+      "artist": "工藤真由",
+      "has_synced": true,
+      "path": "select/08_ハートキャッチ☆パラダイス!_(オリジナル・メロディー入り・カラオケ)_Heartcatch☆Paradise!_(Original_Melody_Iri_Ka_工藤真由.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートキャッチ☆パラダイス!",
+      "artist": "工藤真由",
+      "has_synced": false,
+      "path": "select/pl_01_ハートキャッチ☆パラダイス!_工藤真由.txt"
+    }
+  ]
+}
